@@ -1,0 +1,15 @@
+body{
+    font-family: "Gill Sans", Helvetica, Arial, sans-serif;
+    padding-left:20px;
+}
+.star{
+    font-size: 20px;
+}
+.planet, .plutoid{
+    font-size: 18px;
+    margin-left: 15px;
+}
+.moon{
+    font-size: 16px;
+    margin-left: 15px;
+}

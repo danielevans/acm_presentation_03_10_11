@@ -1,0 +1,149 @@
+{
+    "type": "star",
+    "class": "g2",
+    "name": "Sol",
+    "satelites": [
+
+        {
+            "name": "Mercury",
+            "type": "planet",
+            "class": "rocky",
+            "habitable": false
+        },
+
+        {
+            "name": "Venus",
+            "type": "planet",
+            "class": "rocky",
+            "habitable": false
+        },
+
+        {
+            "name": "Earth",
+            "type": "planet",
+            "class": "rocky",
+            "habitable": true,
+            "satelites": [
+                {
+                    "name": "Luna",
+                    "type": "moon"
+                }
+            ]
+        },
+
+        {
+            "name": "Mars",
+            "type": "planet",
+            "class": "rocky",
+            "habitable": false,
+            "satelites": [
+                {
+                    "name": "Phobos",
+                    "type": "moon"
+                },
+                {
+                    "name": "Deimos",
+                    "type": "moon"
+                }
+            ]
+        },
+
+        {
+            "name": "Jupiter",
+            "type": "planet",
+            "class": "gas giant",
+            "habitable": false,
+            "satelites": [
+                {
+                    "name": "Ganymede",
+                    "type": "moon"
+                },
+                {
+                    "name": "Io",
+                    "type": "moon"
+                },
+                {
+                    "name": "Europa",
+                    "type": "moon"
+                },
+                {
+                    "name": "Callisto",
+                    "type": "moon"
+                }
+            ]
+        },
+
+        {
+            "name": "Saturn",
+            "type": "planet",
+            "class": "gas giant",
+            "habitable": false,
+            "satelites": [
+                {
+                    "name": "Titan",
+                    "type": "moon"
+                },
+                {
+                    "name": "Mimas",
+                    "type": "moon"
+                },
+                {
+                    "name": "Enceladus",
+                    "type": "moon"
+                },
+                {
+                    "name": "Tethys",
+                    "type": "moon"
+                },
+                {
+                    "name": "Dione",
+                    "type": "moon"
+                },
+                {
+                    "name": "Rhea",
+                    "type": "moon"
+                }
+            ]
+        },
+
+        {
+            "name": "Uranus",
+            "type": "planet",
+            "class": "gas giant",
+            "habitable": false,
+            "satelites": [
+                {
+                    "name": "Titania",
+                    "type": "moon"
+                },
+                {
+                    "name": "Oberon",
+                    "type": "moon"
+                }
+            ]
+        },
+
+        {
+            "name": "Neptune",
+            "type": "planet",
+            "class": "gas giant",
+            "habitable": false,
+            "satelites": [
+                {
+                    "name": "Triton",
+                    "type": "moon"
+                },
+                {
+                    "name": "Nereid",
+                    "type": "moon"
+                }
+            ]
+        },
+
+        {
+            "name": "Pluto",
+            "type": "plutoid",
+            "habitable": false
+        }
+    ]
+}
