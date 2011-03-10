@@ -15,3 +15,11 @@
 
 !SLIDE
 # And then came Underscore #
+
+
+!SLIDE bullets
+* http://jquery.com/
+* http://documentcloud.github.com/underscore/
+* http://goo.gl/rCOwD
+* We are still hiring
+* evans.daniel.n@gmail.com
